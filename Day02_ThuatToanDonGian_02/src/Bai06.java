@@ -12,12 +12,11 @@ public class Bai06 {
 					m += 2;
 					System.out.println( m );
 				}
-				else break;
 			}
 			if (m <= n-2) {
 				m += 2;
 				System.out.println( m * (-1));
-			} else break;
+			}
 		}
 	}
 }
